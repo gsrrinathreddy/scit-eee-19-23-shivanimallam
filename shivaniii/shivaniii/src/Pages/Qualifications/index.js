@@ -13,7 +13,7 @@ export default function Qualifications() {
       <h1 className='mode'>Qualifications</h1>
       <ListItem alignItems="flex-start">
         <ListItemAvatar>
-          <Avatar alt="RGR Siddhanthi" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPcHLQr7yXRS3xTzz-fDmcbo_3WbimLnvW5-w8r5IJQ&s" />
+          <Avatar alt="shivani" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPcHLQr7yXRS3xTzz-fDmcbo_3WbimLnvW5-w8r5IJQ&s" />
         </ListItemAvatar>
         <ListItemText
           primary="Sree chaitanya institution of technological science"
